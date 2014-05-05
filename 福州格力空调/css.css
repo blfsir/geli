@@ -1,0 +1,168 @@
+BODY {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 22px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: "ËÎÌו"; BACKGROUND: url(images/bg.jpg) #ffffff repeat-x 0px top; COLOR: #000000; FONT-SIZE: 12px; PADDING-TOP: 0px
+}
+DIV {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H1 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H2 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H3 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H4 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+P {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+FORM {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+LABEL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+INPUT {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+TEXTAREA {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+IMG {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+SPAN {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+UL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+A {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ff0000; TEXT-DECORATION: none
+}
+#top {
+	MARGIN: 0px auto; WIDTH: 1002px; CLEAR: both; OVERFLOW: hidden
+}
+#nav {
+	MARGIN: 0px auto; WIDTH: 1002px; CLEAR: both; OVERFLOW: hidden
+}
+#banner {
+	MARGIN: 0px auto; WIDTH: 1002px; CLEAR: both; OVERFLOW: hidden
+}
+#pagebody {
+	MARGIN: 0px auto; WIDTH: 1002px; CLEAR: both; OVERFLOW: hidden
+}
+#foot {
+	MARGIN: 0px auto; WIDTH: 1002px; CLEAR: both; OVERFLOW: hidden
+}
+#top {
+	TEXT-ALIGN: right; BACKGROUND: url(images/top_bg.jpg) no-repeat; HEIGHT: 82px; PADDING-TOP: 20px
+}
+#nav {
+	BACKGROUND: url(images/nav_p.jpg) repeat-x; HEIGHT: 40px
+}
+#nav_l {
+	WIDTH: 10px; BACKGROUND: url(images/nav_l.jpg) no-repeat; FLOAT: left; HEIGHT: 40px
+}
+#nav_c {
+	WIDTH: 982px; FLOAT: left; HEIGHT: 40px
+}
+#nav_c UL LI {
+	WIDTH: 109px; BACKGROUND: url(images/nav_xian.jpg) no-repeat right center; FLOAT: left; HEIGHT: 40px
+}
+#nav_c UL LI A {
+	TEXT-ALIGN: center; WIDTH: 109px; DISPLAY: block; FONT: bold 14px/40px "ËÎÌו"; HEIGHT: 40px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+#nav_c UL LI A:hover {
+	BACKGROUND: url(images/nav_huan.jpg) no-repeat center center; COLOR: #044ba0; TEXT-DECORATION: none
+}
+#nav_r {
+	WIDTH: 10px; BACKGROUND: url(images/nav_r.jpg) no-repeat; FLOAT: right; HEIGHT: 40px
+}
+#banner {
+	HEIGHT: 316px; PADDING-TOP: 10px
+}
+#pagebody {
+	PADDING-TOP: 10px
+}
+#fuwu {
+	WIDTH: 235px; FLOAT: left
+}
+#fuwu H1 {
+	WIDTH: 235px; HEIGHT: 35px
+}
+.left_fu A {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 30px; WIDTH: 180px; DISPLAY: block; FONT: bold 12px/30px "ËÎÌו"; BACKGROUND: url(images/fuwu2.jpg) no-repeat center top; HEIGHT: 30px; TEXT-DECORATION: none
+}
+.left_fu A:hover {
+	BACKGROUND: url(images/fuwu1.jpg) no-repeat center top; COLOR: #ffffff
+}
+#pinpai {
+	WIDTH: 757px; FLOAT: right
+}
+#pinpai H1 {
+	WIDTH: 757px; HEIGHT: 35px
+}
+#lianxi {
+	WIDTH: 235px; FLOAT: left
+}
+#lianxi H1 {
+	WIDTH: 235px; HEIGHT: 35px
+}
+#about {
+	PADDING-LEFT: 10px; WIDTH: 418px; FLOAT: left
+}
+#about H1 {
+	WIDTH: 418px; HEIGHT: 35px
+}
+#liucheng {
+	WIDTH: 327px; FLOAT: right
+}
+#liucheng H1 {
+	WIDTH: 327px; HEIGHT: 35px
+}
+#anli {
+	WIDTH: 1002px; FLOAT: left
+}
+#anli H1 {
+	WIDTH: 1002px; HEIGHT: 35px
+}
+.lanmu_bg {
+	BACKGROUND: url(images/lan_p.jpg) repeat-x; HEIGHT: 35px
+}
+.lanmu_bg SPAN {
+	LINE-HEIGHT: 35px; PADDING-LEFT: 30px; WIDTH: 76px; BACKGROUND: url(images/lan_bg.jpg) no-repeat; FLOAT: left; HEIGHT: 35px; COLOR: #ffffff; FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+.lanmu_bg FONT {
+	WIDTH: 5px; BACKGROUND: url(images/lan_bian.jpg) no-repeat; FLOAT: right; HEIGHT: 35px
+}
+.lanmu_bg A {
+	WIDTH: 45px; BACKGROUND: url(images/more.jpg) no-repeat center center; FLOAT: right; HEIGHT: 35px
+}
+.lanmu_bg1 {
+	LINE-HEIGHT: 35px; BACKGROUND: url(images/lan_p.jpg) repeat-x; HEIGHT: 35px; FONT-SIZE: 12px; FONT-WEIGHT: normal
+}
+.lanmu_bg1 SPAN {
+	LINE-HEIGHT: 35px; PADDING-LEFT: 30px; WIDTH: 76px; BACKGROUND: url(images/lan_bg.jpg) no-repeat; FLOAT: left; HEIGHT: 35px; COLOR: #ffffff; FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+.lanmu_bg1 FONT {
+	WIDTH: 165px; BACKGROUND: url(images/lan_bian.jpg) no-repeat right center; FLOAT: right; HEIGHT: 35px; FONT-SIZE: 12px
+}
+#foot {
+	TEXT-ALIGN: center; MARGIN-TOP: 10px; BACKGROUND: url(images/foot_p.jpg) repeat-x; HEIGHT: 62px; PADDING-TOP: 15px
+}
+#left {
+	WIDTH: 235px; FLOAT: left
+}
+#youbian {
+	WIDTH: 757px; FLOAT: right
+}
+#youbian H1 {
+	HEIGHT: 35px
+}
